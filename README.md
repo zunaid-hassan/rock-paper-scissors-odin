@@ -6,4 +6,4 @@ Lesson link: https://www.theodinproject.com/lessons/foundations-rock-paper-sciss
 
 Follow-up UI lesson: https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors#assignment
 
-Live preview: https://zunaid-hassan.github.io/odin-rock-paper-scissors/
+Live preview: https://zunaid-hassan.github.io/rock-paper-scissors-odin/
